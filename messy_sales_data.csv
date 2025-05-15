@@ -1,0 +1,56 @@
+Customer ID,Customer Name,Product Purchased,Purchase Date,Amount Paid
+1006,bob BROWN,Docking Station,04/05/2025,243.09
+1019,Jane DOE  ,Monitor,05/08/2025,631.9
+1014,ALICE jOnes,Monitor,,602.57
+1010,Jane DOE,Keyboard,03/29/2025,581.54
+1007,Jane DOE,Monitor,04/28/2025,470.33
+1006,emily DAVIS  ,Docking Station,04/30/2025,160.83
+1018,emily DAVIS,Docking Station,05/01/2025,743.19
+1010,ALICE jOnes,Laptop,,274.76
+1010,emily DAVIS,Docking Station,03/29/2025,1391.21
+1003,bob BROWN,Keyboard,05/09/2025,210.32
+1007,emily DAVIS,Mouse,04/02/2025,510.45
+1002,bob BROWN,Laptop,03/29/2025,980.1
+1001,ALICE jOnes,Laptop,03/19/2025,1339.63
+1011,Jane DOE,Keyboard,04/11/2025,606.29
+1005,Jane DOE,Keyboard,05/10/2025,369.2
+1001,emily DAVIS,Monitor,04/08/2025,197.38
+1000,bob BROWN,Laptop,04/18/2025,
+1011,john smith  ,Monitor,05/13/2025,1182.3
+1011,john smith,Docking Station,,1479.31
+1016,john smith  ,Laptop,05/10/2025,1297.44
+1009,Jane DOE,Laptop,05/02/2025,1313.08
+1015,Jane DOE,Mouse,05/01/2025,632.18
+1014,bob BROWN,Laptop,04/13/2025,
+1014,emily DAVIS,Docking Station,04/07/2025,1267.75
+1018,john smith,Monitor,05/14/2025,327.72
+1011,bob BROWN,Monitor,,597.38
+1019,bob BROWN,Mouse,05/03/2025,1038.25
+1002,emily DAVIS,Docking Station,03/31/2025,1082.55
+1004,bob BROWN,Monitor,04/04/2025,1056.97
+1018,emily DAVIS  ,Keyboard,04/01/2025,199.96
+1006,ALICE jOnes,Docking Station,04/11/2025,988.97
+1008,emily DAVIS,Docking Station,04/19/2025,847.8
+1006,john smith,Mouse,05/01/2025,442.74
+1017,john smith,Monitor,04/17/2025,747.16
+1003,emily DAVIS,Docking Station,04/08/2025,477.93
+1013,ALICE jOnes,Monitor,04/28/2025,1395.55
+1017,ALICE jOnes,Keyboard,03/25/2025,1063.43
+1008,john smith,Mouse,03/21/2025,407.46
+1001,ALICE jOnes,Keyboard,05/15/2025,554.0
+1019,bob BROWN,Mouse,,1175.64
+1014,Jane DOE,Docking Station,03/25/2025,178.31
+1006,bob BROWN,Mouse,05/05/2025,1250.52
+1011,john smith,Laptop,04/01/2025,1227.06
+1007,ALICE jOnes  ,Monitor,04/18/2025,661.63
+1014,emily DAVIS  ,Monitor,04/24/2025,
+1002,Jane DOE,Laptop,04/28/2025,1378.39
+1013,emily DAVIS,Keyboard,05/06/2025,894.05
+1016,john smith  ,Laptop,05/02/2025,1105.08
+1003,ALICE jOnes  ,Docking Station,03/28/2025,
+1017,emily DAVIS  ,Docking Station,,798.92
+1014,emily DAVIS,Monitor,04/24/2025,
+1016,john smith,Laptop,05/02/2025,1105.08
+1007,Jane DOE  ,Monitor,04/28/2025,470.33
+1013,emily DAVIS,Keyboard,05/06/2025,894.05
+1019,bob BROWN,Mouse,05/03/2025,1038.25
